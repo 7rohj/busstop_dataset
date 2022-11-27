@@ -5,6 +5,7 @@
 처음에는 open api 를 사용했다가 그냥 csv 파일 이용.. 덜 피곤... </br>
 `경기버스정보` https://www.gbis.go.kr/ </br>
 오른쪽 하단에 있는 `정류소정보, 노선경유정보, 버스노선정보` 다운 </br>
+`서울버스정보` https://data.seoul.go.kr/dataList/OA-1095/L/1/datasetView.do </br>
 </br>
 ![image](https://user-images.githubusercontent.com/99319638/204149907-7b3d1791-44e9-447d-8b68-5df5f3bcc0cf.png)
 태블로 이용, 데이터 확인 (원래 태블로 잘 사용했었는데 왜 굳이 굳이 파이썬만 사용했었을까..) </br>
