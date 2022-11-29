@@ -29,12 +29,10 @@ https://public.tableau.com/app/profile/.45122939/viz/routeid/1_1 </br>
 원인 찾아보기............. 🤯 </br>
 </br>
 ## ✔ 유의할 점 </br>
-![image](https://user-images.githubusercontent.com/99319638/204231352-fbcaaf42-f469-480b-a55f-fa64cb9f92cb.png) </br>
-**같은 300번이라도 노선ID를 한 번 더 봐줘야 한담** </br>
+- **같은 300번이라도 노선ID를 한 번 더 봐줘야 함** </br>
 **route id & station id** </br>
-![image](https://user-images.githubusercontent.com/99319638/204231554-6c0644fb-988a-410e-8c92-d15d711cf40b.png) </br>
-![image](https://user-images.githubusercontent.com/99319638/204231598-cf14d868-7561-4b25-aca7-6c1f5a9a0c22.png) </br>
-got it?! </br>
+- **서울시_버스노선별정류소정보 테이블에서 경기도 테이블과의 정류소명이 일치하는 것들 </br>
+X, Y좌표 경기도 좌표로 수정하기 (정류소명이 완전히 일치하지 않을 수 있음)**</br>
 ## ✔ </br>
 경기도 + 서울 데이터를 합쳐주고 중복된 데이터를 제거해줘야겠다는 생각을 했음 </br>
 일단 웹개발을 하도록 하려고 생각중이며 그 전에 태블로를 통해 대시보드를 만들고 </br>
@@ -42,5 +40,5 @@ got it?! </br>
 </br>
 csv 데이터셋이 잘 나타난다면 카카오맵이나 네이버지도 크롤링은 안할것 </br>
 역시 새벽이 머리가 잘 돌아감.
-2022-11-28 씀 
+2022-11-28 씀 2022-11-29 
 
