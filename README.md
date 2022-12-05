@@ -61,8 +61,9 @@ csv 데이터셋이 잘 나타난다면 카카오맵이나 네이버지도 크�
 - 데이터셋을 만들어 그 정보 안에서 필요한 정보들을 추출해 화면에 띄울 것이냐
 - 🙊 
 ## ✔ </br>
-`네이버 마을버스 정보제공처` https://lab.odsay.com/
+`네이버 마을버스 정보제공처` https://lab.odsay.com/ 및 https://lab.odsay.com/community/boardListView?type=forum
 ![image](https://user-images.githubusercontent.com/99319638/205530800-8025a7d3-2eef-4f11-9ead-cadc37570f5f.png)
+
 
 </br>
 
